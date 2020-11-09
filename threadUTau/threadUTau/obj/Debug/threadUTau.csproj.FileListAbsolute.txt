@@ -1,0 +1,57 @@
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\bin\Debug\threadUTau.exe.config
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\bin\Debug\threadUTau.exe
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\bin\Debug\threadUTau.pdb
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Form1.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Properties.Resources.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.csproj.GenerateResource.cache
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.csproj.CoreCompileInputs.cache
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.exe
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.pdb
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.HomeUserControl.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.ThreadsUserControl.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.SignupUserControl.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Form2.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.csprojAssemblyReference.cache
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Sports.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Transport.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Comments.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Events.resources
+E:\Facultate\An III Sem 2\Industrial Informatics\Project\threadutau\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.University.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\bin\Debug\threadUTau.exe.config
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\bin\Debug\threadUTau.exe
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\bin\Debug\threadUTau.pdb
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.csprojAssemblyReference.cache
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Comments.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Events.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Form2.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Form1.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.HomeUserControl.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Properties.Resources.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.SignupUserControl.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Sports.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.ThreadsUserControl.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.Transport.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.University.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.csproj.GenerateResource.cache
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.csproj.CoreCompileInputs.cache
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.exe
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\threadUTau\threadUTau\obj\Debug\threadUTau.pdb
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\bin\Debug\threadUTau.exe.config
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\bin\Debug\threadUTau.exe
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\bin\Debug\threadUTau.pdb
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.csprojAssemblyReference.cache
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Comments.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Events.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Form2.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Form1.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.HomeUserControl.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Properties.Resources.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.SignupUserControl.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Sports.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.ThreadsUserControl.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.Transport.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.University.resources
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.csproj.GenerateResource.cache
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.csproj.CoreCompileInputs.cache
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.exe
+C:\Users\Madalin\Downloads\facultate\An 3 sem2\II\II Project\Final\threadutau\threadUTau\threadUTau\obj\Debug\threadUTau.pdb
