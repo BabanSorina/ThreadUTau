@@ -5,4 +5,7 @@ If he/she wishes to use our app they have to register using the email mentioned.
 After registering they are ready to read/post/comment on the thread for our topics: Sport, Travel, Events and University.
 
 The front-end part of our project was made using Windows Forms 
+
 We used a SQL database to store and work on the data we had.
+
+We decided to use a web service to implement and store our methods for the application as it allows applications to communicate, exchange data, and shared services among themselves.
