@@ -4,7 +4,7 @@ The user has to be a UTC-N student with a valid student ID provided by the unive
 If he/she wishes to use our app they have to register using the email mentioned.
 After registering they are ready to read/post/comment on the thread for our topics: Sport, Travel, Events and University.
 
-The front-end part of our project was made using Windows Forms 
+The front-end part of our project was made using Windows Forms. The main framework was .NET framework with C# language.
 
 We used a SQL database to store and work on the data we had.
 
